@@ -1,5 +1,4 @@
 # lots of changes to this file so I could test github integration
-# Richard
 
 print("Hello World!")
 print("Hello Again")
