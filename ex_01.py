@@ -1,5 +1,3 @@
-# lots of changes to this file so I could test github integration
-
 print("Hello World!")
 print("Hello Again")
 print("I like typing this.")
